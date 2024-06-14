@@ -1,5 +1,7 @@
 # Super Mario Reinforcement Learning
 
+![Winning with PPO](./Banner.webp)
+
 Computational Neuroscience Final Project \
 CSC 570, Spring 2024, Mugizi Robert Rwebangira
 
